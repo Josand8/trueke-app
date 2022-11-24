@@ -1,0 +1,57 @@
+[
+    {
+        "nombre": "Blastoise",
+        "descripcion": "Lámina en buen estado",
+        "cantidad": 1,
+        "imagen":"https://irreverente.net/truekeapp/CartaBlastoise.jpg",
+        "usuario":"Patricia",
+        "contacto": 3136758987,
+        "cartaACambio":"Charmander"
+
+    },
+    {
+        "nombre": "Charmander",
+        "descripcion": "Lámina en buen estado",
+        "cantidad": 1,
+        "imagen":"https://irreverente.net/truekeapp/CartaCharmander.jpg",
+        "usuario":"Ramiro",
+        "contacto": 3126758987,
+        "cartaACambio":"Pikachu"
+    },
+    {
+        "nombre": "Machamp",
+        "descripcion": "Lámina en buen estado",
+        "cantidad": 1,
+        "imagen":"https://irreverente.net/truekeapp/CartaMachamp.jpg",
+        "usuario":"José",
+        "contacto": 3146758987,
+        "cartaACambio":"Pidgey"
+    },
+    {
+        "nombre": "Pikachu",
+        "descripcion": "Lámina desgastada",
+        "cantidad": 1,
+        "imagen":"https://irreverente.net/truekeapp/CartaPikachu.jpg",
+        "usuario":"Rosa",
+        "contacto": 3186758987,
+        "cartaACambio":"Metapod"
+    },
+    {
+        "nombre": "Zapdos",
+        "descripcion": "Lámina rasgada",
+        "cantidad": 1,
+        "imagen":"https://irreverente.net/truekeapp/CartaZapdos.jpg",
+        "usuario":"Sandra",
+        "contacto": 3176758987,
+        "cartaACambio":"Machamp"
+    },
+    {
+        "nombre": "Squirtle",
+        "descripcion": "Lámina en buen estado",
+        "cantidad": 1,
+        "imagen":"https://irreverente.net/truekeapp/CartaSquitle.jpg",
+        "usuario":"Mateo",
+        "contacto": 3196758987,
+        "cartaACambio":"Rattata"
+    }
+]
